@@ -1,6 +1,4 @@
 Kristen Harrison  
-CS 370  
-Project 2  
 TOTP implementation in Python  
   
   
